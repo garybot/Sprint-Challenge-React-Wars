@@ -5,7 +5,7 @@ const Card = styled.article`
   margin: 5px auto;
   width: 350px;
   border-radius: 8px;
-  background-color: rgba(255,255,255,0.3);
+  background-color: rgba(255,255,255,0.5);
   display: flex;
   flex-flow: row wrap;
 `
@@ -16,8 +16,6 @@ const Name = styled.h2`
 const Measurement = styled.span`
   width: 45%;
 `
-
-
 
 export default function CharacterCard(props) {
   return (
