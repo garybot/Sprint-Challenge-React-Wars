@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/starwars/static/css/main.7fa01143.chunk.css",
-    "main.js": "/starwars/static/js/main.7b09bff8.chunk.js",
-    "main.js.map": "/starwars/static/js/main.7b09bff8.chunk.js.map",
-    "runtime-main.js": "/starwars/static/js/runtime-main.30439ad6.js",
-    "runtime-main.js.map": "/starwars/static/js/runtime-main.30439ad6.js.map",
-    "static/js/2.7885c14d.chunk.js": "/starwars/static/js/2.7885c14d.chunk.js",
-    "static/js/2.7885c14d.chunk.js.map": "/starwars/static/js/2.7885c14d.chunk.js.map",
-    "index.html": "/starwars/index.html",
-    "precache-manifest.d98a0e8a990df1b1b3e3da659e5ae355.js": "/starwars/precache-manifest.d98a0e8a990df1b1b3e3da659e5ae355.js",
-    "service-worker.js": "/starwars/service-worker.js",
-    "static/css/main.7fa01143.chunk.css.map": "/starwars/static/css/main.7fa01143.chunk.css.map",
-    "static/media/index.css": "/starwars/static/media/sw-bg.dff75a1f.jpg"
+    "main.css": "/Sprint-Challenge-React-Wars/static/css/main.3f91963a.chunk.css",
+    "main.js": "/Sprint-Challenge-React-Wars/static/js/main.7b09bff8.chunk.js",
+    "main.js.map": "/Sprint-Challenge-React-Wars/static/js/main.7b09bff8.chunk.js.map",
+    "runtime-main.js": "/Sprint-Challenge-React-Wars/static/js/runtime-main.0c5ea7e0.js",
+    "runtime-main.js.map": "/Sprint-Challenge-React-Wars/static/js/runtime-main.0c5ea7e0.js.map",
+    "static/js/2.98948a28.chunk.js": "/Sprint-Challenge-React-Wars/static/js/2.98948a28.chunk.js",
+    "static/js/2.98948a28.chunk.js.map": "/Sprint-Challenge-React-Wars/static/js/2.98948a28.chunk.js.map",
+    "index.html": "/Sprint-Challenge-React-Wars/index.html",
+    "precache-manifest.2d7c47e5e3b125371344ae3e7849a0d4.js": "/Sprint-Challenge-React-Wars/precache-manifest.2d7c47e5e3b125371344ae3e7849a0d4.js",
+    "service-worker.js": "/Sprint-Challenge-React-Wars/service-worker.js",
+    "static/css/main.3f91963a.chunk.css.map": "/Sprint-Challenge-React-Wars/static/css/main.3f91963a.chunk.css.map",
+    "static/media/index.css": "/Sprint-Challenge-React-Wars/static/media/sw-bg.dff75a1f.jpg"
   }
 }
